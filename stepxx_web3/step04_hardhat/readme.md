@@ -1,4 +1,9 @@
-# Hardhat Tutorial
+#Hardhat Setup
 
-In this directory we will create baby steps to learn Hardhat following this [Tutorial for Beginners](https://hardhat.org/tutorial)
-
+To setup Hardhat enviroment follow The bolow commands
+#Package.json
+npm init --save
+#To Install Harhat
+npm install --save-dev hardhat
+#To run Hardhat
+npx hardhat
